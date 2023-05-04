@@ -1,12 +1,12 @@
-aerosol
-battery
-cardboard
-food can
-glass bottle
-ink cartridge
-magazine
-paper bag
-plastic bag
-plastic bottle
-plastic utensils
-soda can
+Aerosol
+Aluminium Can
+Battery
+Cardboard
+Glass Bottle
+HDPE
+Ink Cartridge
+Organic
+Paper Bag
+Plastic Bag
+Plastic Bottle
+Plastic Utensil
